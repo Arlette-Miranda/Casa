@@ -1,0 +1,5 @@
+		Mueble para TV
+El mueble que se encuentra en la sala, cuenta con distintos
+estantes para colocar decoraciones, como cuadros, botellas,
+juegos de mesa. 
+Además de contar con un gran espacio para la tv.
